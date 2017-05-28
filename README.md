@@ -2,8 +2,6 @@
 
 ##Project-3: Advanced Lane Finding
 
-###Writeup author: Vikalp Mishra
-
 ---
 
 **Advanced Lane Finding Project**
